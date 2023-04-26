@@ -9,32 +9,12 @@ for (int i = 0; i < N; i++)
     T[i] = inputs[1] - inputs[0];
 }
 
-foreach (var t in T)
-{
-    int sum = 0;
-    foreach (var t2 in T)
-    {
-        sum += Math.Abs(t - t2);
-    }
+Array.Sort(T);
 
-    if (min == sum)
-    {
-        select.Add(t);
-    }
-    else if (min > sum)
-    {
-        min = sum;
-        select.Clear();
-        select.Add(t);
-    }
-}
-
-if (select.Count > 1)
+if (T.Length % 2 == 0)
 {
-    int max = select.Max();
-    int mini = select.Min();
-    
-    Console.Write(max-mini+1);
+    int index = T.Length / 2 - 1;
+    Console.Write(T[index+1] - T[index] + 1);
 }
 else
 {
