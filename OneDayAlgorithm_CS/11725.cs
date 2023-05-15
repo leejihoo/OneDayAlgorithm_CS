@@ -39,6 +39,26 @@ while (bfs.Count > 0)
     }
 }
 
+//dfs 풀이
+
+//Dfs(0);
+// void Dfs(int start){
+//     if (check[start] == false)
+//     {   
+//         check[start] = true;
+//         foreach (var node in graph[start])
+//         {
+//             if (check[node-1] == false)
+//             {
+//                 if (parent[node - 1] == 0)
+//                 {
+//                     parent[node-1] = start + 1;
+//                 }
+//                 Dfs(node-1);
+//             }
+//         }
+//     }
+// }
 
 // 공통 출력부
 for (int i = 1; i < parent.Length; i++)
