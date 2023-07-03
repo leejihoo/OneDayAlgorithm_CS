@@ -4,7 +4,7 @@
 ## 문자열
 | 순번 | 문제번호 | 문제 이름 | 통과 여부 |
 |:---:|:---:|:---:|:---:|
-| 01 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | |
+| 01 | 1316 | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | ✔ |
 | 02 | 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | |
 | 03 | 1439 | [뒤집기](https://www.acmicpc.net/problem/1439) | |
 | 04 | 2941 | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | |
