@@ -12,7 +12,7 @@
 | 06 | 1120 | [문자열](https://www.acmicpc.net/problem/1120) | ✔ |
 | 07 | 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | ✔ |
 | 08 | 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | ✔ |
-| 09 | 10610 | [30](https://www.acmicpc.net/problem/10610) | |
+| 09 | 10610 | [30](https://www.acmicpc.net/problem/10610) | ✔ |
 | 10 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | |
 
 ## 다이나믹 프로그래밍
