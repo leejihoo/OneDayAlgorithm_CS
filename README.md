@@ -13,7 +13,7 @@
 | 07 | 1302 | [베스트셀러](https://www.acmicpc.net/problem/1302) | ✔ |
 | 08 | 1543 | [문서 검색](https://www.acmicpc.net/problem/1543) | ✔ |
 | 09 | 10610 | [30](https://www.acmicpc.net/problem/10610) | ✔ |
-| 10 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | |
+| 10 | 11656 | [접미사 배열](https://www.acmicpc.net/problem/11656) | ✔ |
 
 ## 다이나믹 프로그래밍
 | 순번 | 문제번호 | 문제 이름 | 통과 여부 |
