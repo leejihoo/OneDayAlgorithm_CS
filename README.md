@@ -19,7 +19,7 @@
 | 순번 | 문제번호 | 문제 이름 | 통과 여부 |
 |:---:|:---:|:---:|:---:|
 | 01 | 9655 | [돌 게임](https://www.acmicpc.net/problem/9655) | ✔ |
-| 02 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | |
+| 02 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | ✔ |
 | 03 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | |
 | 04 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | |
 | 05 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | |
