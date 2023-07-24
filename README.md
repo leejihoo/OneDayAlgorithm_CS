@@ -22,7 +22,7 @@
 | 02 | 2839 | [설탕 배달](https://www.acmicpc.net/problem/2839) | ✔ |
 | 03 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | ✔ |
 | 04 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | ✔ |
-| 05 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | |
+| 05 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | ✔ |
 | 06 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | |
 | 07 | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | |
 | 08 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | |
