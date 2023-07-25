@@ -23,7 +23,7 @@
 | 03 | 1904 | [01타일](https://www.acmicpc.net/problem/1904) | ✔ |
 | 04 | 2193 | [이친수](https://www.acmicpc.net/problem/2193) | ✔ |
 | 05 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | ✔ |
-| 06 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | |
+| 06 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | ✔ |
 | 07 | 9461 | [파도반 수열](https://www.acmicpc.net/problem/9461) | |
 | 08 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | |
 | 09 | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | |
