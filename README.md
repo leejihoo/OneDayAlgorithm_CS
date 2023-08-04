@@ -28,9 +28,9 @@
 | 08 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | ✔ |
 | 09 | 11727 | [2×n 타일링 2](https://www.acmicpc.net/problem/11727) | ✔ |
 | 10 | 14501 | [퇴사](https://www.acmicpc.net/problem/14501) | ✔ |
-| 11 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) |  |실버2 |
-| 12 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | | 실버2 |
-| 13 | 1965 | [상자넣기](https://www.acmicpc.net/problem/1965) | | 실버2 |
+| 11 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | ✔ |실버2 |
+| 12 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | ✔ | 실버2 |
+| 13 | 1965 | [상자넣기](https://www.acmicpc.net/problem/1965) | ✔ | 실버2 |
 | 14 | 9184 | [신나는 함수 여행](https://www.acmicpc.net/problem/9184) | | 실버2 |
 | 15 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | | 실버2 |
 | 16 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | | 실버2 |
