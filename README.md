@@ -31,12 +31,12 @@
 | 11 | 1699 | [제곱수의 합](https://www.acmicpc.net/problem/1699) | ✔ |실버2 |
 | 12 | 1912 | [연속합](https://www.acmicpc.net/problem/1912) | ✔ | 실버2 |
 | 13 | 1965 | [상자넣기](https://www.acmicpc.net/problem/1965) | ✔ | 실버2 |
-| 14 | 9184 | [신나는 함수 여행](https://www.acmicpc.net/problem/9184) | | 실버2 |
-| 15 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | | 실버2 |
-| 16 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | | 실버2 |
-| 17 | 11055 | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | | 실버2 |
-| 18 | 11060 | [점프 점프](https://www.acmicpc.net/problem/11060) | | 실버2 |
-| 19 | 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | | 실버2 |
+| 14 | 9184 | [신나는 함수 여행](https://www.acmicpc.net/problem/9184) | ✔ | 실버2 |
+| 15 | 11051 | [이항 계수 2](https://www.acmicpc.net/problem/11051) | ✔ | 실버2 |
+| 16 | 11053 | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | ✔ | 실버2 |
+| 17 | 11055 | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | ✔ | 실버2 |
+| 18 | 11060 | [점프 점프](https://www.acmicpc.net/problem/11060) | ✔ | 실버2 |
+| 19 | 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | ✔ | 실버2 |
 | 20 | 15988 | [	1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | | 실버2 |
 
 
