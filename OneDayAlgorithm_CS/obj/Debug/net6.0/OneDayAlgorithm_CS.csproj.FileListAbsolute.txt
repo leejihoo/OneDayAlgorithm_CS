@@ -1,0 +1,15 @@
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\bin\Debug\net6.0\OneDayAlgorithm_CS.exe
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\bin\Debug\net6.0\OneDayAlgorithm_CS.deps.json
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\bin\Debug\net6.0\OneDayAlgorithm_CS.runtimeconfig.json
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\bin\Debug\net6.0\OneDayAlgorithm_CS.dll
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\bin\Debug\net6.0\OneDayAlgorithm_CS.pdb
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.csproj.AssemblyReference.cache
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.AssemblyInfoInputs.cache
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.AssemblyInfo.cs
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.csproj.CoreCompileInputs.cache
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.dll
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\refint\OneDayAlgorithm_CS.dll
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.pdb
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\OneDayAlgorithm_CS.genruntimeconfig.cache
+C:\Users\mint\RiderProjects\OneDayAlgorithm_CS\OneDayAlgorithm_CS\obj\Debug\net6.0\ref\OneDayAlgorithm_CS.dll
