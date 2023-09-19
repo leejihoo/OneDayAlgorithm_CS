@@ -37,19 +37,19 @@
 | 17 | 11055 | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) | ✔ | 실버2 |
 | 18 | 11060 | [점프 점프](https://www.acmicpc.net/problem/11060) | ✔ | 실버2 |
 | 19 | 11722 | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) | ✔ | 실버2 |
-| 20 | 15988 | [	1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | | 실버2 |
+| 20 | 15988 | [	1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) | ✔ | 실버2 |
 
 
 ## 자료 구조
 | 순번 | 문제번호 | 문제 이름 | 통과 여부 |
 |:---:|:---:|:---:|:---:|
-| 01 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | |
-| 02 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | |
-| 03 | 3986 | [좋은 단어](https://www.acmicpc.net/problem/3986) | |
-| 04 | 11652 | [카드](https://www.acmicpc.net/problem/11652) | |
-| 05 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | |
-| 06 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | |
-| 07 | 1935 | [후위 표기식2](https://www.acmicpc.net/problem/1935) | |
-| 08 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | |
-| 09 | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | |
-| 10 | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | |
+| 01 | 2161 | [카드1](https://www.acmicpc.net/problem/2161) | ✔ |
+| 02 | 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | ✔ |
+| 03 | 3986 | [좋은 단어](https://www.acmicpc.net/problem/3986) | ✔ |
+| 04 | 11652 | [카드](https://www.acmicpc.net/problem/11652) | ✔ |
+| 05 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | ✔ |
+| 06 | 18258 | [큐 2](https://www.acmicpc.net/problem/18258) | ✔ |
+| 07 | 1935 | [후위 표기식2](https://www.acmicpc.net/problem/1935) | ✔ |
+| 08 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | ✔ |
+| 09 | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | ✔ |
+| 10 | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | ✔ |
